@@ -17,43 +17,43 @@ Welcome to the HR Learning Management System (LMS) User Manual for Habib Univers
 
 The HR LMS is a comprehensive platform designed to facilitate the learning and development of Habib University staff. This manual will provide step-by-step instructions and tips to maximize your use of the system.
 <br/>
-[Click here to view more about this section](#creating-courses)
+<a href="/introduction.md" >Click here to view more about this section</a>
 
 ### Getting Started
 
 To begin using the LMS, you will need to log in with your university credentials. If you encounter any issues, please contact the IT support team.
 <br/>
-[Click here to view more about this section](#creating-courses)
+<a href="/getting-started.md" >Click here to view more about this section</a>
 
 ### Navigating the Dashboard
 
 The dashboard is your central hub for accessing courses, tracking progress, and managing your learning activities. Familiarize yourself with the layout and available features.
 <br/>
-[Click here to view more about this section](#creating-courses)
+<a href="/navigating the dashboard.md" >Click here to view more about this section</a>
 
 ### Creating Courses
 
 Learn how to create and manage courses within the LMS. This section will guide you through the process of setting up new courses, including defining course objectives and adding course materials.
 <br/>
-[Click here to view more about this section](#creating-courses)
+<a href="/crearting-course.md" >Click here to view more about this section</a>
 
 ### Creating Course Content
 
 This section covers how to create various types of course content, such as quizzes, assignments, video lectures, and presentations. You'll learn best practices for engaging and effective content creation.
 <br/>
-[Click here to view more about this section](#creating-course-content)
+<a href="/creating-course-content.md" >Click here to view more about this section</a>
 
 ### Adding People to Courses
 
 Discover how to add participants to your courses. This includes enrolling students, assigning instructors, and managing user roles and permissions.
 <br/>
-[Click here to view more about this section](#adding-people-to-courses)
+<a href="/adding-people-to-canvass.md" >Click here to view more about this section</a>
 
 ### Ordering and Locking Items
 
 Understand how to order and lock course items to create a structured learning path. This section will explain prerequisites and requirements to ensure learners complete necessary steps in the correct sequence.
 <br/>
-[Click here to view more about this section](#ordering-and-locking-items)
+<a href="/ordering-and-locking-items.md" >Click here to view more about this section</a>
 
 ### Support and Resources
 
